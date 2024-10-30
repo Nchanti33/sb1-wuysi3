@@ -55,11 +55,8 @@ cd e-jardin
 
 2. **Installer les dépendances**
 ```bash
-# Frontend
-cd frontend
+cd src
 npm install
-
-# Backend
 cd ../server
 npm install
 ```
@@ -84,11 +81,8 @@ ADMIN_EMAIL=admin@e-jardin.com
 
 4. **Lancer l'application**
 ```bash
-# Frontend
-cd frontend
+cd src
 npm run dev
-
-# Backend
 cd ../server
 npm run dev
 ```
@@ -149,9 +143,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👥 Équipe
 
-- [Votre Nom] - Développeur Full Stack
-- [Autre Membre] - Designer UI/UX
-- [Autre Membre] - Backend Developer
+- Noah Chantin - Développeur Full Stack
+- Wissal Kerkour - Designer UI/UX
+- Martin Leroy - Backend Developer
 
 ## 📞 Support
 
